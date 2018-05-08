@@ -1,4 +1,4 @@
-var goFuckingWorkURL = "http://vrachieru.github.com/go-fucking-work";
+var goFuckingWorkURL = "http://rusinowska.github.com/";
 
 var unprodctiveURLs = [
   "9gag.com",
