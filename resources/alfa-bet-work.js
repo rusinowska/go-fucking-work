@@ -1,7 +1,6 @@
 var quotes = [
-  "CHRZAŃ UFNĄ BELGIJSKOŚĆ, TĘP WYŻ-MŁÓDŹ",
-  "JEŻU KLĄTW, SPŁÓDŹ FINOM CZĘŚĆ GRY HAŃB",
-  ""
+  "CHRZAŃ UFNĄ BELGIJSKOŚĆ, TĘP WYZ-MŁÓDŹ",
+  "JEZU KLĄTW, SPŁÓDŹ FINOM CZĘŚĆ GRY HAŃB"
 ];
 
 function getQuote () {
